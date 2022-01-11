@@ -11,14 +11,16 @@
       "Action": "Include",
       "FromFile": "assets/includes/KimNPC.json",
       "When": {
-          "HasMod|contains=KimBoardingHouse.ExnoticTest": "false"
+          "HasMod|contains=KimBoardingHouse.ExnoticTest": "false",
+          "HasMod|contains=FlashShifter.StardewValleyExpandedCP": "false"
         }
     },
     {
       "Action": "Include",
       "FromFile": "assets/includes/KimNPC_BoardingHouse.json",
       "When": {
-          "HasMod": "KimBoardingHouse.ExnoticTest"
+          "HasMod": "KimBoardingHouse.ExnoticTest",
+          "HasMod|contains=FlashShifter.StardewValleyExpandedCP": "false"
         }
     },
     {
