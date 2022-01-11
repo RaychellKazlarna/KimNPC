@@ -1,0 +1,12 @@
+{
+  "Format": "1.24.0",
+  "Changes": [
+    {
+      "Action": "EditMap",
+      "Target": "Maps/BoardingHouse2",
+      "FromFile": "assets/BoardingHouse-Kim.tmx",
+      "FromArea": { "X": 0, "Y": 0, "Width": 11, "Height": 12 },
+      "ToArea": { "X": 22, "Y": 0, "Width": 11, "Height": 12 },
+    },
+  ]
+}
