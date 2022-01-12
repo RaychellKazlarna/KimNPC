@@ -1,0 +1,13 @@
+{
+     "Changes": [
+	{
+      "LogName": "Kim - Shiko",
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/Kim",
+      "Entries": {
+                   "11" : "Have you seen that girl Shiko?$0#$b#You know, it's actually not that hard to make friends with her.$h",
+                   "22" : "Have you seen that girl Shiko?$0#$b#You know, it's actually not that hard to make friends with her.$h",
+                 }
+           }
+     ]
+}

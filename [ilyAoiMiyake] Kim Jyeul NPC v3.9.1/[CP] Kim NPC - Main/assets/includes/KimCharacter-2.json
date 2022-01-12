@@ -1,0 +1,29 @@
+{
+     "Changes": [
+	{
+      "LogName": "NPC Portrait",
+      "Action": "Load",
+      "Target": "Portraits/Kim",
+      "FromFile": "assets/img/Kim_Fall.png"          
+    },
+	{
+      "LogName": "NPC Sprite",
+      "Action": "Load",
+      "Target": "Characters/Kim",
+      "FromFile": "assets/img/Kim Sprite_Fall.png"
+    },
+//New
+	{
+      "LogName": "NPC Portrait",
+      "Action": "Load",
+      "Target": "Portraits/Kim_Beach",
+      "FromFile": "assets/img/Kim_summer.png"      
+    },
+	{
+      "LogName": "NPC Sprite",
+      "Action": "EditImage",
+      "Target": "Characters/Kim_Beach",
+      "FromFile": "assets/img/Kim Sprite_summer.png"
+    },
+  ]
+}
